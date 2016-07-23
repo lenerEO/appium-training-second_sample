@@ -5,7 +5,7 @@ Lo que debemos instalar:
 - Java 7 (JDK).
 - Android SDK.
 - Appium.
-- Universal Windows ADB Driver (Link).
+- Universal Windows ADB Driver (http://download.clockworkmod.com/test/UniversalAdbDriverSetup.msi).
 - Eclipse.
 - TestNG en Eclipse.
 - ADT Plugin en Eclipse.
